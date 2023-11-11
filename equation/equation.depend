@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626081870 source:c:\jatin folder\c program\equation\main.c
+	<stdio.h>
+	<math.h>
+
